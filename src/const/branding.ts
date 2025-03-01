@@ -5,7 +5,7 @@
 export const LOBE_CHAT_CLOUD = 'Thammasat Cloud';
 
 export const BRANDING_NAME = 'Thammasat';
-export const BRANDING_LOGO_URL = '';
+export const BRANDING_LOGO_URL = 'https://tu.ac.th/uploads/media/logo/logo01.jpg';
 
 export const ORG_NAME = 'Thammasat University';
 
